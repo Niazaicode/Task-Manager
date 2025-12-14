@@ -5,6 +5,8 @@ Team Members
 Lutfullah Niazai       201-2309023
 Ataullah Yaqoobi       201-2309013
 
+
+some pictures of the project
 ![WhatsApp Image 2025-12-14 at 12 03 07 PM](https://github.com/user-attachments/assets/88f71899-8ef4-4d56-84dc-ea1fd31e4c3a)
 ![WhatsApp Image 2025-12-14 at 12 05 00 PM](https://github.com/user-attachments/assets/89![WhatsApp Image 2025-12-14 at 12 10 53 PM](https://github.com/user-attachments/assets/1fc71942-bd35-4722-99cc-a360813ffa34)
 d2fb1f-02a3-45ae-a4df-080dd3479f88)
